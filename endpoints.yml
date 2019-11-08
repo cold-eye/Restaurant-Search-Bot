@@ -39,7 +39,3 @@ action_endpoint:
 #  username: username
 #  password: password
 #  queue: queue
-
-# rasa run -m models --enable-api --cors "*" --debug
-# rasa x --enable-api --cors "*"
-# rasa run actions
