@@ -2,7 +2,7 @@
 Restaurants Search Bot using Rasa Framework &amp; Zomato API
 
 ## Screens
-
+![ScreenShot](https://github.com/JiteshGaikwad/Restaurant-Search-Bot/blob/master/ui_1.PNG) ![ScreenShot](https://github.com/JiteshGaikwad/Restaurant-Search-Bot/blob/master/ui_2.PNG) ![ScreenShot](https://github.com/JiteshGaikwad/Restaurant-Search-Bot/blob/master/ui_3.PNG)
 
 ## Demo
 Check out the demo 
